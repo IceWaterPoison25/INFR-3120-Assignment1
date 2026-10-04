@@ -1,4 +1,9 @@
 @charset "UTF-8";
+* {
+    /*width 100% + padding #px makes weird looking pages*/
+    box-sizing: border-box;
+}
+
 body {
     background-color: #1B3161;
     font-family: Verdana, Geneva, Arial, sans-serif;
@@ -13,7 +18,7 @@ header {
     height: 150px;
     width: 100%;
     margin: 0px;
-    padding: 25px;
+    padding: 40px;
     float: none;
 }
 
@@ -23,23 +28,31 @@ a {
 
 article {
     background-color: #3d6fdb;
+    color: white;
     height: 600px;
     width: 100%;
     margin: 0px;
-    padding: 0px;
+    padding: 40px;
     float: none;
 }
 
-h1, h2, h3, h4 {
+article img {
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    transform: translateX(50%);
+}
+
+h1, h2, h3, h4, p{
     margin: 0px;
 }
 
 footer {
     background-color: #27468a;
     color: white;
-    height: 50px;
+    height: 100px;
     width: 100%;
     margin: 0px;
-    padding: 10px;
+    padding: 40px;
     float: none;
 }
