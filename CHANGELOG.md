@@ -1,5 +1,9 @@
 # Project 1 Changelog
 
+## v0.4.0 - 2026/10/06
+### Improvements
+- ContactMe.html now has a rudimentary form
+
 ## v0.3.0 - 2026/10/06
 ### Added
 - SampleVideo.mp4 as placeholder video for AboutMe.html
