@@ -1,5 +1,14 @@
 # Project 1 Changelog
 
+## v0.3.0 - 2026/10/06
+### Added
+- SampleVideo.mp4 as placeholder video for AboutMe.html
+- Media folder for all curent and future media files
+
+## Improvements
+- AboutMe.html is worked on, but unfinished
+- laptop.css is also worked on for AboutMe.html changes
+
 ## v0.2.0 - 2026/10/03
 ### Added
 - Hello.png for the home page

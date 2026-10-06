@@ -43,6 +43,13 @@ article img {
     transform: translateX(50%);
 }
 
+video {
+    position: absolute;
+    height: auto;
+    width: 400px;
+    transform: translate(50%);
+}
+
 h1, h2, h3, h4, p{
     margin: 0px;
 }
