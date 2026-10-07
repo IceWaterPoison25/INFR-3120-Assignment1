@@ -1,5 +1,11 @@
 # Project 1 Changelog
 
+## v0.5.0 - 2026/10/07
+### Improvements
+- Implemented basic format for Projects.html (header & footer)
+- Updates footer information for all pages
+- Finally figured out how to center elements (text, images & videos)
+
 ## v0.4.0 - 2026/10/06
 ### Improvements
 - ContactMe.html now has a rudimentary form
