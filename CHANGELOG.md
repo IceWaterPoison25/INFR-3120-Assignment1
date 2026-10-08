@@ -1,5 +1,10 @@
 # Project 1 Changelog
 
+## v0.6.2 - 2026/10/08
+Improvements
+- README.md is updated to include external code and dimensions notes
+- All external code usage is commented
+
 ## v0.6.1 - 2026/10/08
 Improvements
 - Went through HTML file checkers and changed accordingly

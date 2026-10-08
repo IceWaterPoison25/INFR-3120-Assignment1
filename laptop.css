@@ -36,7 +36,7 @@ article {
 #homePageImg img{
     height: 400px;
     width: 400px;
-    
+    /*Lines 40-41 are code provided by Chat-GPT see README.md [2] for more*/
     display: block;
     margin: 0 auto;
 }
@@ -93,6 +93,7 @@ footer {
     width: 100%;
 }
 
+/*Lines 97-101 is code provided by Chat-GPT see README.md [3] for more*/
 article::after {
     content: "";
     display: block;
