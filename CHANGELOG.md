@@ -1,5 +1,16 @@
 # Project 1 Changelog
 
+## v0.6.0 - 2026/10/08
+### Added
+- Multiple media files
+
+### Improvements
+- AboutMe.html had its placeholder media replaced with current ones
+- ContactMe.html had a better form design
+- HomePage.html is finished
+- Projects.html got a massive update with the last two projects being placeholders
+- All CSS files are updates and should "work"
+
 ## v0.5.0 - 2026/10/07
 ### Improvements
 - Implemented basic format for Projects.html (header & footer)

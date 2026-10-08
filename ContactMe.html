@@ -26,25 +26,27 @@
                 method="post" enctype="text/plain" name="feedback_form">
                 <p>
                     <!--Section for recipient's name-->
-                    <label for="Name">Your Name (Required)</label>
+                    <label for="Name">Your Name (Required)</label><br>
                     <input type="text" id="Name" size="32" placeholder="Enter your name here" required>
                 </p>
                 <p>
                     <!--Section for recipient's email-->
-                    <label for="Email">Your Email (Required): </label>
+                    <label for="Email">Your Email (Required): </label><br>
                     <input type="email" id="Email" size="32" placeholder="Enter your email here" required>
                 </p>
                 <p>
                     <!--Section for recipient's Cell no.-->
-                    <label for="Number">Phone Number (Optional): </label>
+                    <label for="Number">Phone Number (Optional): </label><br>
                     <input type="tel" id="Number" size="32" placeholder="Enter your phone number here">
                 </p>
                 <p>
                     <!--Section for recipient's comments-->
                     <label for="Comment">Your Comment:</label><br>
-                    <textarea name="Comment" cols="60" row="6" placeholder="Enter your comment here"></textarea>
+                    <textarea name="Comment" placeholder="Enter your comment here"></textarea>
                 </p>
-                <button type="submit">Submit</button>
+                <div id="formButton">
+                    <button type="submit">Submit</button>
+                </div>
                 </form>
             </div>
         </article>

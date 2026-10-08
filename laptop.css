@@ -29,16 +29,21 @@ a {
 article {
     background-color: #3d6fdb;
     color: white;
-    height: 600px;
     width: 100%;
     margin: 0px;
     padding: 40px;
-    float: none;
 }
 
-article img {
+#homePageImg img{
     height: 400px;
     width: 400px;
+    display: block;
+    margin: 0 auto;
+}
+
+#aboutMeImg img{
+    width: 300px;
+    height: auto;
     display: block;
     margin: 0 auto;
 }
@@ -52,7 +57,7 @@ video {
 }
 
 h1, h2, h3, h4, p{
-    margin: 0px;
+    margin: 10px;
 }
 
 footer {
@@ -71,4 +76,42 @@ footer {
     border: 5px solid #1B3161;
     width: 700px;
     margin: 0 auto;
+}
+#formButton {
+    width: 100px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#formBox p {
+    margin: 10px;
+}
+#formBox input{
+    width: 100%;
+}
+#formBox textarea{
+    width: 100%;
+}
+
+article::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.box {
+    background-color: #325bb3;
+    border: 5px solid #1B3161;
+    width: 550px;
+    float: left;
+    margin: 20px;
+}
+.box img {
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
+.box:hover {
+    transform: scale(1.1);
 }
