@@ -1,5 +1,11 @@
 # Project 1 Changelog
 
+## v0.6.1 - 2026/10/08
+Improvements
+- Went through HTML file checkers and changed accordingly
+- Added comments for external code usage (unfinished)
+- Fixed any elements sizing issues for tablet.css and mobile.css
+
 ## v0.6.0 - 2026/10/08
 ### Added
 - Multiple media files

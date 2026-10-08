@@ -1,6 +1,6 @@
 @charset "UTF-8";
+/*Lines 3-6 are Code provided by Chat-GPT see README.md [1] for more*/
 * {
-    /*width 100% + padding #px makes weird looking pages*/
     box-sizing: border-box;
 }
 
@@ -10,7 +10,6 @@ body {
     padding: 0px;
     margin: 0px;
 }
-
 
 header {
     background-color: #27468a;
@@ -37,6 +36,7 @@ article {
 #homePageImg img{
     height: 400px;
     width: 400px;
+    
     display: block;
     margin: 0 auto;
 }
