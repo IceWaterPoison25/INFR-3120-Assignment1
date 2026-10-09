@@ -1,5 +1,13 @@
 # Project 1 Changelog
 
+## v1.0.0 - 2026/10/09
+### Added
+- The 3rd and 4th project pictures into media folder
+
+### Improvements
+- All HTML files are tested and fixed accordingly
+- All CSS files are tested
+
 ## v0.7.2 - 2026/10/08
 ### Improvements
 - Replaced all HomePage.html links with index.html (whoops)
