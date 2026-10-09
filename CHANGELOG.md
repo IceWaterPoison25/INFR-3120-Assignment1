@@ -1,5 +1,9 @@
 # Project 1 Changelog
 
+## v0.7.2 - 2026/10/08
+### Improvements
+- Replaced all HomePage.html links with index.html (whoops)
+
 ## v0.7.1 - 2026/10/08
 ### Improvements
 - Changes HomePage.html to index.html for github site deployment
