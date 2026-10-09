@@ -1,5 +1,9 @@
 # Project 1 Changelog
 
+## v0.7.1 - 2026/10/08
+### Improvements
+- Changes HomePage.html to index.html for github site deployment
+
 ## v0.7.0 - 2026/10/08
 ## Added
 - Linear and Angular Gradients (see README.md for more)
@@ -7,12 +11,12 @@
 
 
 ## v0.6.2 - 2026/10/08
-Improvements
+### Improvements
 - README.md is updated to include external code and dimensions notes
 - All external code usage is commented
 
 ## v0.6.1 - 2026/10/08
-Improvements
+### Improvements
 - Went through HTML file checkers and changed accordingly
 - Added comments for external code usage (unfinished)
 - Fixed any elements sizing issues for tablet.css and mobile.css
