@@ -72,7 +72,7 @@ footer {
 }
 
 #formBox {
-    background-color: #325bb3;
+    background: linear-gradient(to bottom, #1B3161 0%, #3d6fdb 100%);
     border: 5px solid #1B3161;
     width: 700px;
     margin: 0 auto;
@@ -101,7 +101,8 @@ article::after {
 }
 
 .box {
-    background-color: #325bb3;
+    /*Line 105 is code provided by Gemini see README.md [4] for more*/
+    background: linear-gradient(45deg, #4881ff 0%, #27468a 100%);
     border: 5px solid #1B3161;
     width: 550px;
     float: left;

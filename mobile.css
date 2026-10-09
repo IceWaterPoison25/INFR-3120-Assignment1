@@ -70,7 +70,7 @@ footer {
 }
 
 #formBox {
-    background-color: #325bb3;
+    background: linear-gradient(to bottom, #1B3161 0%, #3d6fdb 100%);
     border: 5px solid #1B3161;
     width: 80%;
     margin: 0 auto;
@@ -97,7 +97,7 @@ article::after {
 }
 
 .box {
-    background-color: #325bb3;
+    background: linear-gradient(45deg, #4881ff 0%, #27468a 100%);
     border: 5px solid #1B3161;
     width: 250px;
     float: left;

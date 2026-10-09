@@ -1,5 +1,11 @@
 # Project 1 Changelog
 
+## v0.7.0 - 2026/10/08
+## Added
+- Linear and Angular Gradients (see README.md for more)
+- Image of color scheme in media folder
+
+
 ## v0.6.2 - 2026/10/08
 Improvements
 - README.md is updated to include external code and dimensions notes
